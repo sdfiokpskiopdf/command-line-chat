@@ -1,10 +1,11 @@
 # command-line-chat
-A simple command line chat app to communicate via the terminal.
+A simple command line chat app to communicate via the terminal. I'm new to networking so sorry if some of my terminology or code is messed up.
 
 - [x] sending messages
 - [x] recieving messages
 - [x] setting nicknames
 - [x] handling client disconnection
+- [ ] somehow make the server public
 
 
 ## Usage
