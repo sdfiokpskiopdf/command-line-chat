@@ -5,19 +5,17 @@ A simple command line chat app to communicate via the terminal. I'm new to netwo
 - [x] recieving messages
 - [x] setting nicknames
 - [x] handling client disconnection
-- [ ] somehow make the server public
+- [x] somehow make the server public
 - [ ] encrypt the messages with end-to-end encryption (like whatsapp)
 
 
 ## Usage
-On the server computer, run `server.py`
-
-This will create a server on the host IP address and on port `6080`
-
-On each client computer, run `client.py`
-
-Then input the IP address printed out by `server.py`, create a nickname and you should be connected to the chat room
-
+### If you want to run the files locally
+- On the server computer, run `server.py`, This will create a server on the host IP address and on port `6080`
+- On each client computer, run `client.py`, Then input the IP address printed out by `server.py`, create a nickname and you should be connected to the chat room
+## If you want to connect to my public server
+- Just run `client.py` and connect to `213.219.37.71`
+- This will most likely be offline but it's worth a try.
 ## sending messages
 To send messages I've created my own little protocol where when the user wants to send a message, two packets are sent: a header and the actual message
 
