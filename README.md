@@ -6,6 +6,7 @@ A simple command line chat app to communicate via the terminal. I'm new to netwo
 - [x] setting nicknames
 - [x] handling client disconnection
 - [ ] somehow make the server public
+- [ ] encrypt the messages with end-to-end encryption (like whatsapp)
 
 
 ## Usage
