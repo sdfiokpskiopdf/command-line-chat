@@ -7,6 +7,7 @@ A simple command line chat app to communicate via the terminal. I'm new to netwo
 - [x] handling client disconnection
 - [x] somehow make the server public
 - [ ] encrypt the messages with end-to-end encryption (like whatsapp)
+- [ ] make this web based (this will be a whole project on it's own, allowing for image and emoji sending, and everything you would expect from a general purpose chat app)
 
 
 ## Usage
